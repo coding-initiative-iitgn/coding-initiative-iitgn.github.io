@@ -12,7 +12,7 @@ date: 01-17-2024
 
 ## **Winners Announcement**
 
-Click for High-Resolution Image
+Click on image for higher resolution
 
 ### **<u>First Place</u>**: Mohit & Srivaths
 [![Flow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals.](code_meets_art/FirstLowRes.jpg)](code_meets_art/FirstHighRes.jpg)
