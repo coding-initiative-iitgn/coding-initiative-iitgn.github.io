@@ -1,0 +1,11 @@
+---
+title: Events
+listing:
+  sort: date desc
+  contents: events
+#   sort-ui: false
+  filter-ui: false
+  feed: true
+  type: table
+page-layout: full
+---

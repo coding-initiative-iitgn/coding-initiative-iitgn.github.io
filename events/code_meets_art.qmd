@@ -1,0 +1,58 @@
+---
+title: Code Meets Art
+date: 01-17-2024
+---
+
+# Introducing `Coding Initiative` with the inaugural competition `Code Meets Art`.
+
+## Copetition Dates
+
+* **Start**: 10 Jan 2024
+* **End**: 17 Jan 2024
+
+## **Winners Announcement**
+
+### **<u>First Place</u>**: Mohit & Srivaths
+[![Flow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals.](code_meets_art/FirstLowRes.jpg)](https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/FirstHighRes.jpg)
+
+Prize: [Headphones woth Rs 3500 for each member](https://www.amazon.in/boAt-Rockerz-551ANC-Cancellation-Headphones/dp/B0BZHRB9J1/ref=cs_sr_dp_2?crid=3BUEFBUO91UR9&keywords=headphones&qid=1704350602&sprefix=headphones%2Caps%2C202&sr=8-14&th=1) (Total Rs 7000)
+
+### **<u>Second Place</u>**: Vatsalraj Rathod & Vedanshi Raiyani
+[![This is a halftone image made from a color image using stars of different sharpness and hexagons. It uses the pixel brightness to determine what polygon is to be used at respective places. Look from a distance for better view and experience. Zoom in to view the polygons used.](code_meets_art/SecondLowRes.jpg)](https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/SecondHighRes.jpg)
+
+Prize: [Earphones worth Rs 1500 for each member](https://www.amazon.in/Boult-Audio-Playtime-Bluetooth-Wireless/dp/B0CHVW97GR/ref=sr_1_1_sspa?keywords=earphones&qid=1704348912&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) (Total Rs 3000)
+
+### **<u>Third Place</u>**: Ankit Yadav & Soumyaratna Debnath
+[![We extend our heartfelt appreciation to the esteemed faculty members of the Computer Science and Engineering (CSE) Department at IIT Gandhinagar for their significant contributions that have positively impacted our lives. In recognition of their dedicated efforts, we have crafted a memorial gesture in the form of a cover image for the CSE Department.
+This cover image incorporates individual portraits of each respected professor, carefully arranged in a mosaic format. A Lal-Minar serves as the background, enriched with a subtle polygraphic touch, symbolizing unity and diversity within our academic community. Through this artistic expression, we seek to convey our gratitude and admiration for our professors' profound influence on our academic journey and personal development.
+We earnestly hope that our esteemed professors find this tribute vibrant with the depth of our gratitude and the artistic representation of their impact on our academic community.](code_meets_art/ThirdLowRes.png)](https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/ThirdHighRes.png)
+
+Prize: [Wireless Mouse worth Rs 800 for each member](https://www.amazon.in/Logitech-Silent-Wireless-Mouse-Charcoal/dp/B01M72LILF/ref=sr_1_1_sspa?crid=3GHZFBA1VN4S8&keywords=wireless+mouse&qid=1704350455&s=computers&sprefix=wirel%2Ccomputers%2C206&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) (Total Rs 1600)
+
+## **Honourable Mention**
+
+### Manav Jain & Shreya Mali
+[![ASCII image of Mona Lisa](code_meets_art/HonourableLowRes.png)](https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/HonourableHighRes.jpg)
+
+## **Rules**
+
+* Team Size up to 2 members
+* Can use any programming language
+* You are <u>_not allowed to use machine learning based generations_</u>. Instead look at the provided samples for inspiration.
+
+## **Submission Information**
+
+* **[Submission Form](https://forms.gle/T5Rnx7WtMFQK148t8)**
+
+## **Judging Criteria**
+
+1. **Creativity and Originality**: How creatively has code been used to create or enhance
+artistic expression?
+
+2. **Technical Execution**: How well is the code implemented to achieve the artistic vision? Is it technically proficient and well-crafted?
+
+3. **Interactivity and Engagement**: Does the code-driven artwork engage the audience or user in an interactive and immersive manner?
+
+4. **Innovation and Novelty**: Does the use of code push the boundaries of traditional artistic mediums or introduce new ways of experiencing art?
+
+5. **Aesthetics and Visual Impact**: How visually appealing and impactful is the final output? Does the code contribute positively to the artistic aesthetics?
