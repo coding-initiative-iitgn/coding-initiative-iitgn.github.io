@@ -1,5 +1,8 @@
 ---
-title: "Course Title"
+title: "Coding Initiative IIT Gandhinagar"
 ---
 
-Course info & details here
+<br>
+<br>
+<br>
+![](files/IITGN_Logo.png){height=500 width=500}

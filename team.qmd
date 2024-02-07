@@ -1,0 +1,10 @@
+---
+title: Team
+---
+
+* Faculty:
+    + [Nipun Batra](https://nipunbatra.github.io/)
+    + [Yogesh Meena](http://yogeshmeena.com/)
+
+* TA:
+    + [Khush Shah](https://khush24shah.github.io/)

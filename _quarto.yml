@@ -10,6 +10,8 @@ website:
         text: Home
       - href: events.qmd
         text: Events
+      - href: team.qmd
+        text: Team
 
 format:
   html:
