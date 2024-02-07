@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Coding Initiative IIT Gandhinagar</title>
+<link>https://coding-initiative-iitgn.github.io/events.html</link>
+<atom:link href="https://coding-initiative-iitgn.github.io/events.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Coding Nights</title>
+  <link>https://coding-initiative-iitgn.github.io/events/coding_nights.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://coding-initiative-iitgn.github.io/events/coding_nights.html</guid>
+  <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Code Meets Art</title>
+  <link>https://coding-initiative-iitgn.github.io/events/code_meets_art.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="introducing-coding-initiative-with-the-inaugural-competition-code-meets-art." class="level1">
+<h1>Introducing <code>Coding Initiative</code> with the inaugural competition <code>Code Meets Art</code>.</h1>
+<section id="copetition-dates" class="level2">
+<h2 class="anchored" data-anchor-id="copetition-dates">Copetition Dates</h2>
+<ul>
+<li><strong>Start</strong>: 10 Jan 2024</li>
+<li><strong>End</strong>: 17 Jan 2024</li>
+</ul>
+</section>
+<section id="winners-announcement" class="level2">
+<h2 class="anchored" data-anchor-id="winners-announcement"><strong>Winners Announcement</strong></h2>
+<section id="first-place-mohit-srivaths" class="level3">
+<h3 class="anchored" data-anchor-id="first-place-mohit-srivaths"><strong><u>First Place</u></strong>: Mohit &amp; Srivaths</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/FirstHighRes.jpg"><img src="https://coding-initiative-iitgn.github.io/events/code_meets_art/FirstLowRes.jpg" class="img-fluid figure-img" alt="Flow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals."></a></p>
+<figcaption>Flow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals.</figcaption>
+</figure>
+</div>
+<p>Prize: <a href="https://www.amazon.in/boAt-Rockerz-551ANC-Cancellation-Headphones/dp/B0BZHRB9J1/ref=cs_sr_dp_2?crid=3BUEFBUO91UR9&amp;keywords=headphones&amp;qid=1704350602&amp;sprefix=headphones%2Caps%2C202&amp;sr=8-14&amp;th=1">Headphones woth Rs 3500 for each member</a> (Total Rs 7000)</p>
+</section>
+<section id="second-place-vatsalraj-rathod-vedanshi-raiyani" class="level3">
+<h3 class="anchored" data-anchor-id="second-place-vatsalraj-rathod-vedanshi-raiyani"><strong><u>Second Place</u></strong>: Vatsalraj Rathod &amp; Vedanshi Raiyani</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/SecondHighRes.jpg"><img src="https://coding-initiative-iitgn.github.io/events/code_meets_art/SecondLowRes.jpg" class="img-fluid figure-img" alt="This is a halftone image made from a color image using stars of different sharpness and hexagons. It uses the pixel brightness to determine what polygon is to be used at respective places. Look from a distance for better view and experience. Zoom in to view the polygons used."></a></p>
+<figcaption>This is a halftone image made from a color image using stars of different sharpness and hexagons. It uses the pixel brightness to determine what polygon is to be used at respective places. Look from a distance for better view and experience. Zoom in to view the polygons used.</figcaption>
+</figure>
+</div>
+<p>Prize: <a href="https://www.amazon.in/Boult-Audio-Playtime-Bluetooth-Wireless/dp/B0CHVW97GR/ref=sr_1_1_sspa?keywords=earphones&amp;qid=1704348912&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1">Earphones worth Rs 1500 for each member</a> (Total Rs 3000)</p>
+</section>
+<section id="third-place-ankit-yadav-soumyaratna-debnath" class="level3">
+<h3 class="anchored" data-anchor-id="third-place-ankit-yadav-soumyaratna-debnath"><strong><u>Third Place</u></strong>: Ankit Yadav &amp; Soumyaratna Debnath</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/ThirdHighRes.png"><img src="https://coding-initiative-iitgn.github.io/events/code_meets_art/ThirdLowRes.png" class="img-fluid figure-img" alt="We extend our heartfelt appreciation to the esteemed faculty members of the Computer Science and Engineering (CSE) Department at IIT Gandhinagar for their significant contributions that have positively impacted our lives. In recognition of their dedicated efforts, we have crafted a memorial gesture in the form of a cover image for the CSE Department. This cover image incorporates individual portraits of each respected professor, carefully arranged in a mosaic format. A Lal-Minar serves as the background, enriched with a subtle polygraphic touch, symbolizing unity and diversity within our academic community. Through this artistic expression, we seek to convey our gratitude and admiration for our professors’ profound influence on our academic journey and personal development. We earnestly hope that our esteemed professors find this tribute vibrant with the depth of our gratitude and the artistic representation of their impact on our academic community."></a></p>
+<figcaption>We extend our heartfelt appreciation to the esteemed faculty members of the Computer Science and Engineering (CSE) Department at IIT Gandhinagar for their significant contributions that have positively impacted our lives. In recognition of their dedicated efforts, we have crafted a memorial gesture in the form of a cover image for the CSE Department. This cover image incorporates individual portraits of each respected professor, carefully arranged in a mosaic format. A Lal-Minar serves as the background, enriched with a subtle polygraphic touch, symbolizing unity and diversity within our academic community. Through this artistic expression, we seek to convey our gratitude and admiration for our professors’ profound influence on our academic journey and personal development. We earnestly hope that our esteemed professors find this tribute vibrant with the depth of our gratitude and the artistic representation of their impact on our academic community.</figcaption>
+</figure>
+</div>
+<p>Prize: <a href="https://www.amazon.in/Logitech-Silent-Wireless-Mouse-Charcoal/dp/B01M72LILF/ref=sr_1_1_sspa?crid=3GHZFBA1VN4S8&amp;keywords=wireless+mouse&amp;qid=1704350455&amp;s=computers&amp;sprefix=wirel%2Ccomputers%2C206&amp;sr=1-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1">Wireless Mouse worth Rs 800 for each member</a> (Total Rs 1600)</p>
+</section>
+</section>
+<section id="honourable-mention" class="level2">
+<h2 class="anchored" data-anchor-id="honourable-mention"><strong>Honourable Mention</strong></h2>
+<section id="manav-jain-shreya-mali" class="level3">
+<h3 class="anchored" data-anchor-id="manav-jain-shreya-mali">Manav Jain &amp; Shreya Mali</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/coding-initiative-iitgn/coding-initiative-iitgn.github.io/events/code_meets_art/HonourableHighRes.jpg"><img src="https://coding-initiative-iitgn.github.io/events/code_meets_art/HonourableLowRes.png" class="img-fluid figure-img" alt="ASCII image of Mona Lisa"></a></p>
+<figcaption>ASCII image of Mona Lisa</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="rules" class="level2">
+<h2 class="anchored" data-anchor-id="rules"><strong>Rules</strong></h2>
+<ul>
+<li>Team Size up to 2 members</li>
+<li>Can use any programming language</li>
+<li>You are <u><em>not allowed to use machine learning based generations</em></u>. Instead look at the provided samples for inspiration.</li>
+</ul>
+</section>
+<section id="submission-information" class="level2">
+<h2 class="anchored" data-anchor-id="submission-information"><strong>Submission Information</strong></h2>
+<ul>
+<li><strong><a href="https://forms.gle/T5Rnx7WtMFQK148t8">Submission Form</a></strong></li>
+</ul>
+</section>
+<section id="judging-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="judging-criteria"><strong>Judging Criteria</strong></h2>
+<ol type="1">
+<li><p><strong>Creativity and Originality</strong>: How creatively has code been used to create or enhance artistic expression?</p></li>
+<li><p><strong>Technical Execution</strong>: How well is the code implemented to achieve the artistic vision? Is it technically proficient and well-crafted?</p></li>
+<li><p><strong>Interactivity and Engagement</strong>: Does the code-driven artwork engage the audience or user in an interactive and immersive manner?</p></li>
+<li><p><strong>Innovation and Novelty</strong>: Does the use of code push the boundaries of traditional artistic mediums or introduce new ways of experiencing art?</p></li>
+<li><p><strong>Aesthetics and Visual Impact</strong>: How visually appealing and impactful is the final output? Does the code contribute positively to the artistic aesthetics?</p></li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://coding-initiative-iitgn.github.io/events/code_meets_art.html</guid>
+  <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

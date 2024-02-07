@@ -1,32 +1,65 @@
 [
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
-    "section": "",
-    "text": "Datasets\nSlides",
-    "crumbs": [
-      "Materials"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Course Title",
     "section": "",
-    "text": "Course info & details here",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "Course info & details here"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations",
-    "crumbs": [
-      "Schedule"
-    ]
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 7, 2024\n\n\nCoding Nights\n\n\n \n\n\n\n\nJan 17, 2024\n\n\nCode Meets Art\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/code_meets_art.html",
+    "href": "events/code_meets_art.html",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "Start: 10 Jan 2024\nEnd: 17 Jan 2024\n\n\n\n\n\n\n\n\n\nFlow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals.\n\n\nPrize: Headphones woth Rs 3500 for each member (Total Rs 7000)\n\n\n\n\n\n\nThis is a halftone image made from a color image using stars of different sharpness and hexagons. It uses the pixel brightness to determine what polygon is to be used at respective places. Look from a distance for better view and experience. Zoom in to view the polygons used.\n\n\nPrize: Earphones worth Rs 1500 for each member (Total Rs 3000)\n\n\n\n\n\n\nWe extend our heartfelt appreciation to the esteemed faculty members of the Computer Science and Engineering (CSE) Department at IIT Gandhinagar for their significant contributions that have positively impacted our lives. In recognition of their dedicated efforts, we have crafted a memorial gesture in the form of a cover image for the CSE Department. This cover image incorporates individual portraits of each respected professor, carefully arranged in a mosaic format. A Lal-Minar serves as the background, enriched with a subtle polygraphic touch, symbolizing unity and diversity within our academic community. Through this artistic expression, we seek to convey our gratitude and admiration for our professors’ profound influence on our academic journey and personal development. We earnestly hope that our esteemed professors find this tribute vibrant with the depth of our gratitude and the artistic representation of their impact on our academic community.\n\n\nPrize: Wireless Mouse worth Rs 800 for each member (Total Rs 1600)\n\n\n\n\n\n\n\n\n\nASCII image of Mona Lisa\n\n\n\n\n\n\n\nTeam Size up to 2 members\nCan use any programming language\nYou are not allowed to use machine learning based generations. Instead look at the provided samples for inspiration.\n\n\n\n\n\nSubmission Form\n\n\n\n\n\nCreativity and Originality: How creatively has code been used to create or enhance artistic expression?\nTechnical Execution: How well is the code implemented to achieve the artistic vision? Is it technically proficient and well-crafted?\nInteractivity and Engagement: Does the code-driven artwork engage the audience or user in an interactive and immersive manner?\nInnovation and Novelty: Does the use of code push the boundaries of traditional artistic mediums or introduce new ways of experiencing art?\nAesthetics and Visual Impact: How visually appealing and impactful is the final output? Does the code contribute positively to the artistic aesthetics?"
+  },
+  {
+    "objectID": "events/code_meets_art.html#copetition-dates",
+    "href": "events/code_meets_art.html#copetition-dates",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "Start: 10 Jan 2024\nEnd: 17 Jan 2024"
+  },
+  {
+    "objectID": "events/code_meets_art.html#winners-announcement",
+    "href": "events/code_meets_art.html#winners-announcement",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "Flow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals.\n\n\nPrize: Headphones woth Rs 3500 for each member (Total Rs 7000)\n\n\n\n\n\n\nThis is a halftone image made from a color image using stars of different sharpness and hexagons. It uses the pixel brightness to determine what polygon is to be used at respective places. Look from a distance for better view and experience. Zoom in to view the polygons used.\n\n\nPrize: Earphones worth Rs 1500 for each member (Total Rs 3000)\n\n\n\n\n\n\nWe extend our heartfelt appreciation to the esteemed faculty members of the Computer Science and Engineering (CSE) Department at IIT Gandhinagar for their significant contributions that have positively impacted our lives. In recognition of their dedicated efforts, we have crafted a memorial gesture in the form of a cover image for the CSE Department. This cover image incorporates individual portraits of each respected professor, carefully arranged in a mosaic format. A Lal-Minar serves as the background, enriched with a subtle polygraphic touch, symbolizing unity and diversity within our academic community. Through this artistic expression, we seek to convey our gratitude and admiration for our professors’ profound influence on our academic journey and personal development. We earnestly hope that our esteemed professors find this tribute vibrant with the depth of our gratitude and the artistic representation of their impact on our academic community.\n\n\nPrize: Wireless Mouse worth Rs 800 for each member (Total Rs 1600)"
+  },
+  {
+    "objectID": "events/code_meets_art.html#honourable-mention",
+    "href": "events/code_meets_art.html#honourable-mention",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "ASCII image of Mona Lisa"
+  },
+  {
+    "objectID": "events/code_meets_art.html#rules",
+    "href": "events/code_meets_art.html#rules",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "Team Size up to 2 members\nCan use any programming language\nYou are not allowed to use machine learning based generations. Instead look at the provided samples for inspiration."
+  },
+  {
+    "objectID": "events/code_meets_art.html#submission-information",
+    "href": "events/code_meets_art.html#submission-information",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "Submission Form"
+  },
+  {
+    "objectID": "events/code_meets_art.html#judging-criteria",
+    "href": "events/code_meets_art.html#judging-criteria",
+    "title": "Code Meets Art",
+    "section": "",
+    "text": "Creativity and Originality: How creatively has code been used to create or enhance artistic expression?\nTechnical Execution: How well is the code implemented to achieve the artistic vision? Is it technically proficient and well-crafted?\nInteractivity and Engagement: Does the code-driven artwork engage the audience or user in an interactive and immersive manner?\nInnovation and Novelty: Does the use of code push the boundaries of traditional artistic mediums or introduce new ways of experiencing art?\nAesthetics and Visual Impact: How visually appealing and impactful is the final output? Does the code contribute positively to the artistic aesthetics?"
   }
 ]
