@@ -14,7 +14,7 @@ date: 01-17-2024
 
 Click on image for higher resolution
 
-### **<u>First Place</u>**: Mohit Panchal (23110208, BTech-CSE, 1^st^Year) &<br> Srivaths P (23110321, BTech-CSE, 1^st^Year)
+### **<u>First Place</u>**: Mohit Panchal (23110208, BTech-ME, 1^st^Year) &<br> Srivaths P (23110321, BTech-AI, 1^st^Year)
 [![Flow of Particles through Fields using color generated from a given image. Makes a beautiful pattern giving the illusion of immersive 3 dimensional visuals.](code_meets_art/FirstLowRes.jpg)](code_meets_art/FirstHighRes.jpg)
 
 Prize: [Headphones worth Rs 3500 for each member](https://www.amazon.in/boAt-Rockerz-551ANC-Cancellation-Headphones/dp/B0BZHRB9J1/ref=cs_sr_dp_2?crid=3BUEFBUO91UR9&keywords=headphones&qid=1704350602&sprefix=headphones%2Caps%2C202&sr=8-14&th=1) (Total Rs 7000)
@@ -24,7 +24,7 @@ Prize: [Headphones worth Rs 3500 for each member](https://www.amazon.in/boAt-Roc
 
 Prize: [Earphones worth Rs 1500 for each member](https://www.amazon.in/Boult-Audio-Playtime-Bluetooth-Wireless/dp/B0CHVW97GR/ref=sr_1_1_sspa?keywords=earphones&qid=1704348912&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) (Total Rs 3000)
 
-### **<u>Third Place</u>**: Ankit Yadav (22270001, MTech-CSE, 2^nd^Year) & Soumyaratna Debnath (22270004, MTech-CSE, 2^nd^Year)
+### **<u>Third Place</u>**: Ankit Yadav (22270001, MTech-WS-CSE, 2^nd^Year) & Soumyaratna Debnath (22270004, MTech-WS-CSE, 2^nd^Year)
 [![We extend our heartfelt appreciation to the esteemed faculty members of the Computer Science and Engineering (CSE) Department at IIT Gandhinagar for their significant contributions that have positively impacted our lives. In recognition of their dedicated efforts, we have crafted a memorial gesture in the form of a cover image for the CSE Department. This cover image incorporates individual portraits of each respected professor, carefully arranged in a mosaic format. A Lal-Minar serves as the background, enriched with a subtle polygraphic touch, symbolizing unity and diversity within our academic community. Through this artistic expression, we seek to convey our gratitude and admiration for our professors' profound influence on our academic journey and personal development. We earnestly hope that our esteemed professors find this tribute vibrant with the depth of our gratitude and the artistic representation of their impact on our academic community.](code_meets_art/ThirdLowRes.png)](code_meets_art/ThirdHighRes.png)
 
 Prize: [Wireless Mouse worth Rs 800 for each member](https://www.amazon.in/Logitech-Silent-Wireless-Mouse-Charcoal/dp/B01M72LILF/ref=sr_1_1_sspa?crid=3GHZFBA1VN4S8&keywords=wireless+mouse&qid=1704350455&s=computers&sprefix=wirel%2Ccomputers%2C206&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) (Total Rs 1600)
