@@ -59,3 +59,14 @@ artistic expression?
 4. **Innovation and Novelty**: Does the use of code push the boundaries of traditional artistic mediums or introduce new ways of experiencing art?
 
 5. **Aesthetics and Visual Impact**: How visually appealing and impactful is the final output? Does the code contribute positively to the artistic aesthetics?
+
+## **Prize Distribution (February 26, 2024)**
+
+### **<u>First</u>**:
+![](code_meets_art/FirstPrize.jpg)
+
+### **<u>Second</u>**:
+![](code_meets_art/SecondPrize.jpg)
+
+### **<u>Third</u>**:
+![](code_meets_art/ThirdPrize.jpeg)
